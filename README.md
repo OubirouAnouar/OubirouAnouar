@@ -89,8 +89,8 @@ I am currently pursuing a **Licence d’Excellence in Analyse des Données et In
 
 ## GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OubirouAnouar&show_icons=true&theme=default&hide_title=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OubirouAnouar&layout=compact&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OubirouAnouar&show_icons=true&theme=github_dark&hide_title=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OubirouAnouar&layout=compact&theme=github_dark)
 
 ---
 
