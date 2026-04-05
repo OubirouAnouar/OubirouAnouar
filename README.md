@@ -1,113 +1,99 @@
-# Hi, I'm Anouar
+# Hi, I'm Anouar 👋
 
-**Information Systems / Data / Mobile Engineering Student**  
-Focused on building reliable software systems, data-driven applications, and modern Android solutions.
+**Data & AI Student | Software Engineering | Android Development**
 
----
-
-## Professional Profile
-
-I am a computer engineering student with a strong focus on **data analytics**, **artificial intelligence foundations**, and **software engineering**, with particular interest in **Android mobile development** and **information systems**.
-
-My academic background combines **data analysis**, **databases**, **backend fundamentals**, and **mobile application development**, supported by hands-on projects and practical training. I work with modern architectures, clean code principles, and data-driven approaches to software design.
-
-I am currently pursuing a **Licence d’Excellence in Analyse des Données et Intelligence Artificielle (ADIA)** at the *Centre d’Excellence, Faculty of Sciences, Ibn Zohr University (Agadir)*, where my work emphasizes applied data analytics, advanced databases, and intelligent systems development.
+I focus on building **data-driven applications**, **reliable software systems**, and **modern Android solutions**.
 
 ---
 
-## Academic Path (Relevant)
+## 👨‍💻 About Me
 
-- **Licence d’Excellence – Analyse des Données et Intelligence Artificielle (ADIA)**  
-  *Ibn Zohr University, Agadir* — *Ongoing*  
-  Focus areas: data analytics with Python, time series analysis, advanced databases, Android development, advanced computer networks.
+Computer engineering student specialized in **Data Analytics** and **Artificial Intelligence**, with strong foundations in **software engineering**, **databases**, and **mobile development**.
+
+I work with:
+- Clean architectures (MVVM, Repository Pattern)
+- Data-driven approaches
+- Scalable and maintainable systems
+
+Currently pursuing a **Licence d’Excellence in Data Analytics & AI (ADIA)** at *Ibn Zohr University – Agadir*.
+
+---
+
+## 🎓 Education
+
+- **Licence d’Excellence – Data Analytics & AI (ADIA)**  
+  Ibn Zohr University — *Ongoing*
 
 - **DUT Génie Informatique**  
-  *EST Laâyoune* — 2023–2025  
-  Solid training in software engineering, databases, networks, backend fundamentals, and applied programming projects.  
-  Includes academic projects, initiation internship, and technical internship.
+  EST Laâyoune — *2023–2025*
 
 ---
 
-## Technical Skills
+## 🛠 Tech Stack
 
-### Programming Languages
-- **Kotlin**, **Java**, **Python**, **C**
-- **SQL**
+### 💻 Languages
+`Kotlin` `Java` `Python` `C` `SQL`
 
-### Mobile Development
-- **Android (Kotlin)**
-- **Jetpack Compose**
-- **MVVM Architecture**
-- Repository Pattern
-- REST API integration (Retrofit)
-- Local persistence with **Room (SQLite)**
+### 📱 Mobile (Android)
+- Kotlin & Jetpack Compose  
+- MVVM Architecture  
+- REST APIs (Retrofit)  
+- Room (SQLite)
 
-### Data & Artificial Intelligence
-- Data Analysis with **Python**
-- Time Series Analysis
-- Advanced SQL & Database Design
-- Data Modeling and Query Optimization
+### 📊 Data & AI
+- Data Analysis (Python)  
+- Time Series  
+- SQL Optimization  
+- Data Modeling  
 
-### Backend & Systems
-- RESTful API fundamentals
-- **Spring Framework (basics)**
-- Computer Networks (advanced concepts)
-- Network Programming principles
+### ⚙️ Backend
+- REST APIs  
+- Spring (Basics)  
 
-### Software Engineering
-- Object-Oriented Programming & Design
-- UML Modeling
-- Secure systems fundamentals (cryptography basics)
+### 🧠 Software Engineering
+- OOP & Design  
+- UML  
+- Clean Code Principles  
 
-### Tools & Environment
-- Git & GitHub
-- Android Studio
-- Postman
-- Figma
-- Database management tools
+### 🧰 Tools
+`Git` `GitHub` `Android Studio` `Postman` `Figma`
 
 ---
 
-## Featured Projects
+## 🚀 Projects
 
-> Selected academic and personal projects demonstrating applied skills in data, mobile, and backend development.  
-> *(Repositories available on this profile)*
+### 📱 Android Apps
+Modern Android applications using **Kotlin + Compose**, clean architecture, and API integration.
 
-### 📱 Android Development
-- **Android Applications (Kotlin, Jetpack Compose)**  
-  Applications built with MVVM architecture, REST API consumption, Room persistence, and modern UI design principles.
-
-### 📊 Data Analytics & Python
-- **Data Analysis and Time Series Projects**  
-  Data preprocessing, analysis, and visualization using Python for structured and temporal datasets.
+### 📊 Data Projects
+Data analysis & time series projects using **Python** with real-world datasets.
 
 ### 🌐 Backend & Databases
-- **Database-Centric and API Projects**  
-  SQL-based data modeling, backend logic fundamentals, and REST API integration using Spring basics.
+Projects focused on **SQL design**, **API integration**, and backend fundamentals.
 
 ---
 
-## GitHub Activity
+## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OubirouAnouar&show_icons=true&theme=github_dark&hide_title=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OubirouAnouar&layout=compact&theme=github_dark)
-
----
-
-## Interests & Focus Areas
-
-- Data analytics and applied artificial intelligence  
-- Android engineering and mobile system design  
-- Information systems and database architectures  
-- Clean, scalable, and maintainable software
+![Stats](https://github-readme-stats.vercel.app/api?username=OubirouAnouar&show_icons=true&theme=github_dark)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OubirouAnouar&layout=compact&theme=github_dark)
 
 ---
 
-## Contact
+## 🎯 Focus
 
-- **LinkedIn:** https://www.linkedin.com/in/YOUR_PROFILE  
-- **Email:** oubirou.anouar06@gmail.com
+- Data Analytics & AI  
+- Android Development  
+- Backend Systems  
+- Scalable Software  
 
 ---
 
-*This GitHub profile reflects my academic training, applied technical skills, and engineering mindset as I prepare for internships, engineering programs, and advanced studies in data, AI, and software engineering.*
+## 📫 Contact
+
+- LinkedIn: https://www.linkedin.com/in/anouar-oubirou-6a324b36a  
+- Email: oubirou.anouar06@gmail.com  
+
+---
+
+⭐ *Building real-world projects and preparing for internships in Data, AI, and Software Engineering.*
